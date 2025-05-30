@@ -20,6 +20,8 @@
 ### Build and Execute
 
 ```bash
+git clone https://github.com/Kanishk-Kulshrestha/RayLite.git
+cd RayLite
 g++ -o output.exe main.cpp
 output.exe > image.ppm
-
+```
